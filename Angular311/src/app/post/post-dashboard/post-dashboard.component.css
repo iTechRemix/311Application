@@ -1,0 +1,47 @@
+h1 {
+	text-align:center;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	border-radius: 10px;
+	border-color: #CCCCFF;
+	background-color: #FFFFFF;
+}
+
+#postDashboardTable td {
+	padding: 10px;
+	text-align: center;	
+}
+
+#postDashboardTable th {
+	padding:8px;
+	background-color: #3399FF;
+	color: #FFFFFF;
+}
+
+table tr:nth-child(odd) {
+	background-color: #f1f1f1;
+}
+
+table tr:nth-child(even) {
+	background-color: #ffffff;
+}
+
+#postbutton {
+	background-color: green;
+}
+
+#deleteButton {
+	background-color: red;
+}
+
+#nav {
+	text-align: center;
+}
+
+#adminOptions {
+	width: 10%;
+}
